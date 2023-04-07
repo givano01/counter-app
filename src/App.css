@@ -1,0 +1,15 @@
+*{
+  font-size: 25px;
+}
+
+#root{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: #0c4373;
+  color: white;
+}
+
+
+
+
